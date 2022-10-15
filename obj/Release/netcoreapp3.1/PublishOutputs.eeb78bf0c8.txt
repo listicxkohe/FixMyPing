@@ -1,0 +1,16 @@
+C:\publish\FixMyPing.exe
+C:\publish\FixMyPing.dll
+C:\publish\FixMyPing.deps.json
+C:\publish\FixMyPing.runtimeconfig.json
+C:\publish\FixMyPing.pdb
+C:\publish\Microsoft.Win32.Registry.dll
+C:\publish\System.CodeDom.dll
+C:\publish\System.Management.dll
+C:\publish\System.Security.AccessControl.dll
+C:\publish\System.Security.Principal.Windows.dll
+C:\publish\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\publish\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\publish\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+C:\publish\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\publish\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\publish\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
