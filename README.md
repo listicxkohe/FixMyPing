@@ -1,6 +1,6 @@
 # FixMyPing
 
-This is a simple program i whipped up in visual studio windows forms with C#. Its purpose is to change to some popular dns servers and to, as the title suggest "fix your ping" with the refresh dns button. what it does is behind the scene it refreshes ur dns cache, reloads ur dns. The code is v optimized soo it shoulded hog obserable amount of memory, but if it does be sure to create an issue!
+This is a simple program i whipped up in visual studio windows forms with C#. Its purpose is to change to some popular dns servers and to, as the title suggest "fix your ping" with the refresh dns button. what it does is behind the scene it refreshes ur dns cache, reloads ur dns. The code is v optimized soo it shouldnt hog observeable amount of memory, but if it does be sure to create an issue!
 
 Direct download: https://github.com/listicxkohe/FixMyPing/releases/download/normalRelease/FixMyPing.exe
 
