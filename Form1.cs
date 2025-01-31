@@ -36,7 +36,7 @@ namespace FixMyPing
         public string ping_address_3 = "";
 
         public string ping = "-";
-        //dns stuff
+        //dns stuffs
         public string prefDns = "-";
         public string altDns = "-";
 
