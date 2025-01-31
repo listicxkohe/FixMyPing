@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FixMyPing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54879c183af5d6af18adecd55ee649024cb7059c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FixMyPing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FixMyPing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
